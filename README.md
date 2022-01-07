@@ -1,2 +1,2 @@
-# DL_iad
-Deep Learning, homeworks
+# Deep Learning
+Deep Learning, minor iad, homeworks
