@@ -1,2 +1,2 @@
 # Deep Learning
-Deep Learning, minor iad, homeworks
+Deep Learning, Minor Data Mining, Homeworks
